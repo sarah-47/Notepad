@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1ecfc900-0557-43d8-be37-376b963ff4c2": {
+      "ProjectGuid": "1ecfc900-0557-43d8-be37-376b963ff4c2",
+      "DisplayName": "NotePad",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
